@@ -313,7 +313,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Education
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
