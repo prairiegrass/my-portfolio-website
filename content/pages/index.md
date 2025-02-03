@@ -315,7 +315,7 @@ sections:
           textAlign: center
     actions:
       - type: Button
-        label: Get started
+        label: See More
         altText: ''
         url: /blog
         showIcon: false
