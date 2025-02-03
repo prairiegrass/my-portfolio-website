@@ -281,14 +281,7 @@ sections:
     subtitle: B.S. Statistics and Data Science & Applied Mathematics
     text: |
       Sound theoretical background in the mathematical aspects of data analysis.
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
