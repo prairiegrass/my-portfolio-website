@@ -375,38 +375,6 @@ sections:
         self:
           textAlign: center
   - title:
-      text: Experience
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      Software Engineering Intern
-
-      *   blah blah
-
-      Mathematics Tutor
-
-      *   blah blah
-
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - title:
       text: UCLA
       color: text-dark
       type: TitleBlock
