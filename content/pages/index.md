@@ -211,6 +211,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Awards
   - title: Divider
     colors: bg-light-fg-dark
     styles:
