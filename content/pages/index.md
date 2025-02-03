@@ -316,7 +316,7 @@ sections:
       text: Education
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: B.S. Statistics and Data Science & Applied Mathematics
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
