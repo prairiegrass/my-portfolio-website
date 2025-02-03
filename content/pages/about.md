@@ -13,7 +13,8 @@ sections:
     subtitle: Non-trivial Personal Information
     text: >
       Fun fact: I have taught pole dancing in a foreign country and narrowly
-      escaped being sex trafficked in a different one.
+      escaped being sex trafficked in a different one. Below are some hobbies of
+      mine that may or may not be interesting to you!
     actions:
       - type: Button
         label: See open positions
