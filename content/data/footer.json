@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "About Me",
-                "altText": "Features page",
+                "altText": "About Me page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
