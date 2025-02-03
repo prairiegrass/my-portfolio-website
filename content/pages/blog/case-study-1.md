@@ -1,5 +1,5 @@
 ---
-title: UCI CC HONORS RESEARCH CONFERENCE
+title: 2023 UCI CC HONORS RESEARCH CONFERENCE
 slug: case-study-1
 date: '2022-03-25'
 excerpt: >-
