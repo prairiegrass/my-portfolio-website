@@ -1,5 +1,5 @@
 ---
-title: 1st Place STEM POSTER
+title: UCI CC HONORS RESEARCH CONFERENCE
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
