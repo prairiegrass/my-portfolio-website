@@ -279,36 +279,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: ''
-    title:
-      type: TitleBlock
-      text: AWARDS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
   - title:
       text: RESEARCH EXPERIENCE
       color: text-primary
@@ -401,6 +371,36 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    subtitle: ''
+    title:
+      type: TitleBlock
+      text: AWARDS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
