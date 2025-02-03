@@ -199,7 +199,7 @@ sections:
         fontWeight: 700
     type: FeaturedPostsSection
     hoverEffect: move-up
-    subtitle: AWARDS
+    subtitle: ''
     title:
       type: TitleBlock
       text: AWARDS
