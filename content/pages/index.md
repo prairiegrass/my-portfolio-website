@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Download
+      - label: Download Resume
         altText: Download Resume
         url: /
         showIcon: true
