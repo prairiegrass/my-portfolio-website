@@ -189,7 +189,7 @@ sections:
         title: Software Engineering Intern
         subtitle: June 2024 - Sept. 2024
         text: |
-          Tested and configured mobil app development of a smart-home device.
+          Tested and configured mobile app development of a smart-home device.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
