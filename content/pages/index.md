@@ -173,9 +173,6 @@ sections:
       - url: /images/python-logo-only.svg
         altText: Python logo
         type: ImageBlock
-      - url: /images/R-logo.svg
-        altText: R
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
