@@ -369,7 +369,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: PROJECTS
       color: text-dark
   - title:
       text: Experience
