@@ -404,7 +404,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: AWARDS
+      text: PROJECTS
       color: text-dark
       styles:
         self:
