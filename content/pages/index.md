@@ -239,7 +239,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Mathematics Tutor
-        subtitle: Numbers Done
+        subtitle: Jan 2022 - Jan 2023
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
