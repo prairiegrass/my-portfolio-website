@@ -213,7 +213,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Mathematics Tutor
+      - title: Statistical Consultant
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
