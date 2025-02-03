@@ -177,7 +177,7 @@ sections:
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
-      text: PROJECTS
+      text: EXPERIENCE
       color: text-dark
       styles:
         self:
