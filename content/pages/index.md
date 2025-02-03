@@ -282,12 +282,6 @@ sections:
     text: |
       Sound theoretical background in the mathematical aspects of data analysis.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
