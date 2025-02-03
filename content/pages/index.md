@@ -174,7 +174,7 @@ sections:
         altText: Python logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: R
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
