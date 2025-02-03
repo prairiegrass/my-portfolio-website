@@ -185,6 +185,29 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
+      - title: Technical Consultant
+        subtitle: Jan 2025 - Present
+        text: >
+          Collaborated with several academics in the writing of a scientific
+          article.
+        image:
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Software Engineering Intern
         subtitle: June 2024 - Sept. 2024
@@ -211,29 +234,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Technical Consultant
-        subtitle: Jan 2025 - Present
-        text: >
-          Collaborated with several academics in the writing of a scientific
-          article.
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - type: FeaturedItem
         title: Mathematics Tutor
         subtitle: Jan 2022 - Jan 2023
