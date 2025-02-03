@@ -415,7 +415,7 @@ sections:
       text: CONTACT
       color: text-dark
       type: TitleBlock
-    subtitle: Comment? Likes?
+    subtitle: Drop me
     text: >
       I am always looking for new connections and opportunities. Please feel
       free to drop me a message about anything at all. 
