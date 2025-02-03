@@ -371,6 +371,9 @@ sections:
       type: TitleBlock
       text: PROJECTS
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: Experience
       color: text-dark
