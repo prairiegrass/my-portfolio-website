@@ -204,6 +204,9 @@ sections:
       type: TitleBlock
       text: AWARDS
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: Grow your business 10x faster
       color: text-dark
