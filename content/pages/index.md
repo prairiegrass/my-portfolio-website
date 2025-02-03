@@ -298,7 +298,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
