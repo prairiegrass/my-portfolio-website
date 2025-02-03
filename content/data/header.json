@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Resume",
-            "url": "/pricing",
+            "url": "/resume",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
