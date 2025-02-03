@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Resume",
-            "url": "/resume",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Resume"
-        },
-        {
             "label": "About",
             "altText": "About Me page",
             "url": "/about",
