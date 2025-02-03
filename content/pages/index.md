@@ -316,7 +316,7 @@ sections:
     actions:
       - type: Button
         label: See More
-        altText: ''
+        altText: See More Projects
         url: /blog
         showIcon: false
         icon: arrowRight
