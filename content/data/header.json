@@ -44,7 +44,7 @@
             "altText": "More PagesDropdown",
             "links": [
                 {
-                    "label": "More",
+                    "label": "Resume",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
