@@ -211,7 +211,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 500
+        fontWeight: 700
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: Awards
