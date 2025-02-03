@@ -340,7 +340,7 @@ sections:
       - type: FeaturedItem
         title: 1st Place STEM Poster (tie)
         tagline: 2022 UCI CC Honors Research Conference
-        subtitle: 'Maria Walters, Company'
+        subtitle: Data Analysis
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
