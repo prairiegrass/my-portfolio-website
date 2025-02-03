@@ -50,7 +50,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Hobbies
       color: text-dark
       styles:
         self:
