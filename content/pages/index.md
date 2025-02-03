@@ -167,7 +167,7 @@ sections:
             textAlign: left
     actions:
       - label: See More
-        altText: ''
+        altText: See More Projects
         url: /
         showIcon: false
         icon: arrowRight
