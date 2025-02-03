@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Resume
 slug: pricing
 sections:
   - title:
