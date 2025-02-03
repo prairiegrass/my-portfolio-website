@@ -238,7 +238,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Filler
+        title: Mathematics Tutor
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
