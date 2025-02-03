@@ -414,8 +414,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      I am always looking for new connections and opportunities. Please feel
-      free to drop me a message about anything at all. 
+      Please feel free to drop me a message about anything at all. I love
+      hearing from anyone and everyone!
     media:
       fields:
         - name: name
