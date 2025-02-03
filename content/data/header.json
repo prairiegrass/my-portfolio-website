@@ -41,7 +41,7 @@
         },
         {
             "label": "More",
-            "altText": "More PagesDropdown",
+            "altText": "More Pages Dropdown",
             "links": [
                 {
                     "label": "Resume",
