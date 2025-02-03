@@ -213,7 +213,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Statistical Consultant
+      - title: Technical Consultant
         subtitle: Jan 2025 - Present
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
