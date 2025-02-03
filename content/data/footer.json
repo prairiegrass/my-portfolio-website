@@ -61,7 +61,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Copyright text"
         },
         {
             "label": "Privacy",
