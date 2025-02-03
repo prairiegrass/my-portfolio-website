@@ -166,7 +166,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: See More
         altText: ''
         url: /
         showIcon: false
