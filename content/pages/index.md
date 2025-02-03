@@ -85,7 +85,7 @@ sections:
           textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: EXPERIENCE
+      text: PROJECTS
       color: text-dark
       styles:
         self:
