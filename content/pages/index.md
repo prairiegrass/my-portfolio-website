@@ -214,7 +214,7 @@ sections:
         fontWeight: 700
     type: FeaturedPostsSection
     hoverEffect: move-up
-    subtitle: Awards
+    subtitle: AWARDS
   - title: Divider
     colors: bg-light-fg-dark
     styles:
