@@ -278,6 +278,9 @@ sections:
       type: TitleBlock
       text: SKILLS
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title:
       text: UCLA
       color: text-dark
