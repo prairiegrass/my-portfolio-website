@@ -12,11 +12,8 @@ sections:
           textAlign: center
     subtitle: Non-trivial Personal Information
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Fun fact: I have taught pole dancing in a foreign country and narrowly
+      escaped being sex trafficked in a different one.
     actions:
       - type: Button
         label: See open positions
