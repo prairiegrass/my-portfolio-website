@@ -168,7 +168,7 @@ sections:
     actions:
       - label: See More
         altText: See More Projects
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
