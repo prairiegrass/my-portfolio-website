@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Send me a message!
+      text: Say hi!
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
