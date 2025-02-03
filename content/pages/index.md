@@ -505,7 +505,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: RESEARCH
+      text: RESEARCH EXPERIENCE
       color: text-primary
       styles:
         self:
