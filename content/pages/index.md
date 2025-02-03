@@ -215,10 +215,9 @@ sections:
               borderRadius: x-large
       - title: Technical Consultant
         subtitle: Jan 2025 - Present
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Collaborated with several academics in the writing of a scientific
+          article.
         image:
           altText: Featured icon two
           elementId: ''
