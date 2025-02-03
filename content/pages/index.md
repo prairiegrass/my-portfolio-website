@@ -404,7 +404,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: PROJECTS
+      text: AWARDS
       color: text-dark
       styles:
         self:
