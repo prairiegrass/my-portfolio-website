@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Anna
+      text: Anna Dupree
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
