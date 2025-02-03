@@ -412,7 +412,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Say hi!
+      text: CONTACG
       color: text-dark
       type: TitleBlock
     subtitle: Comment? Likes?
