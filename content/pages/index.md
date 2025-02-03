@@ -170,9 +170,6 @@ sections:
         textAlign: center
   - subtitle: Skills
     images:
-      - url: /images/python.png
-        altText: Python logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
