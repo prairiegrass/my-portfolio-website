@@ -209,6 +209,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: Awards
