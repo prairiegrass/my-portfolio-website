@@ -63,14 +63,6 @@
             "style": "secondary",
             "type": "Link",
             "altText": "Copyright text"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
