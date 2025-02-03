@@ -313,6 +313,16 @@ sections:
       styles:
         self:
           textAlign: center
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - title:
       text: UCLA
       color: text-dark
