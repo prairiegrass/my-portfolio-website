@@ -463,7 +463,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact
+      label: Say hi!
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
