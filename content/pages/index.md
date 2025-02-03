@@ -13,7 +13,7 @@ sections:
       anything!
     actions:
       - label: Resume
-        altText: ''
+        altText: resume
         url: /
         showIcon: false
         icon: arrowRight
