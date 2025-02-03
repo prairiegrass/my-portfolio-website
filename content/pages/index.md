@@ -167,7 +167,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Skills
+  - subtitle: SKILLS
     images:
       - url: /images/vise-logo.svg
         altText: Vise logo
