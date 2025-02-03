@@ -248,6 +248,27 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - title:
+      text: UCLA
+      color: text-dark
+      type: TitleBlock
+    subtitle: B.S. Statistics and Data Science & Applied Mathematics
+    text: |
+      Sound theoretical background in the mathematical aspects of data analysis.
+    actions: []
+    media:
+      url: /images/hero2.svg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: Education
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - subtitle: SKILLS
     images:
       - url: /images/vise-logo.svg
@@ -274,27 +295,6 @@ sections:
         textAlign: center
         fontWeight: 700
     type: ImageGallerySection
-  - title:
-      text: UCLA
-      color: text-dark
-      type: TitleBlock
-    subtitle: B.S. Statistics and Data Science & Applied Mathematics
-    text: |
-      Sound theoretical background in the mathematical aspects of data analysis.
-    actions: []
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: Education
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
