@@ -248,7 +248,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - subtitle: SKILLS
+  - subtitle: ''
     images:
       - url: /images/vise-logo.svg
         altText: Vise logo
