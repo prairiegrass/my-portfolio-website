@@ -45,7 +45,7 @@
             "links": [
                 {
                     "label": "Resume",
-                    "url": "/",
+                    "url": "/resume",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
