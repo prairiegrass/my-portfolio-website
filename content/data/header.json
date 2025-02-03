@@ -33,7 +33,7 @@
         {
             "label": "Projects",
             "altText": "Projects",
-            "url": "/projects",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
