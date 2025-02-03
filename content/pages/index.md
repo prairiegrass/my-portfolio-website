@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
       - label: Download
-        altText: ''
+        altText: Download Resume
         url: /
         showIcon: true
         icon: arrowRight
