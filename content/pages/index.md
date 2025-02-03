@@ -274,6 +274,10 @@ sections:
         textAlign: center
         fontWeight: 700
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: UCLA
       color: text-dark
