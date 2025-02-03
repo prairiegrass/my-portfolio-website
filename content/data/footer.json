@@ -25,6 +25,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Resume link"
+            },
+            {
+                "type": "Button",
+                "label": "Get started",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
