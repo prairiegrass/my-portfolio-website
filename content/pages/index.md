@@ -168,7 +168,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: RESEARCH EXPERIENCE
+      text: RESEARCH
       color: text-primary
       styles:
         self:
