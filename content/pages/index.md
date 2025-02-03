@@ -505,7 +505,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Projects
       color: text-primary
       styles:
         self:
