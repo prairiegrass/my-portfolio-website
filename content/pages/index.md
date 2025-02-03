@@ -173,7 +173,7 @@ sections:
       - url: /images/python-logo-only.svg
         altText: Python logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/R-logo.svg
         altText: R
         type: ImageBlock
       - url: /images/vise-logo.svg
