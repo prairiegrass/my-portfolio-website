@@ -317,9 +317,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: B.S. Statistics and Data Science & Applied Mathematics
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Sound theoretical background in the mathematical aspects of data analysis.
     actions:
       - label: Get started
         url: /
