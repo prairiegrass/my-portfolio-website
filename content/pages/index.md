@@ -170,7 +170,7 @@ sections:
         textAlign: center
   - subtitle: Skills
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/MATLAB--ogo.png
         altText: Python logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
