@@ -317,16 +317,7 @@ sections:
           styles:
             self:
               borderRadius: full
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /blog
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
