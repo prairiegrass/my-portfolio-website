@@ -12,7 +12,7 @@ sections:
       Senior UCLA student of Statistics and Applied Mathematics. Willing to draw
       anything!
     actions:
-      - label: Get started
+      - label: Resume
         altText: ''
         url: /
         showIcon: false
