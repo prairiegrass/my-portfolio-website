@@ -333,7 +333,7 @@ sections:
       - type: FeaturedItem
         title: Project 1
         tagline: Exploratory Data Analysis
-        subtitle: 'Jane Doe, Company'
+        subtitle: Summary
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
