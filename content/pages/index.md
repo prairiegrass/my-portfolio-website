@@ -332,7 +332,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Project 1
-        tagline: Testimonial 2
+        tagline: Exploratory Data Analysis
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
