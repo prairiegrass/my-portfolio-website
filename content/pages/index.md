@@ -313,7 +313,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Education
+      text: UCLA
       color: text-dark
       type: TitleBlock
     subtitle: B.S. Statistics and Data Science & Applied Mathematics
