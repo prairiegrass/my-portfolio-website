@@ -171,7 +171,7 @@ sections:
   - subtitle: Skills
     images:
       - url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: Python logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
