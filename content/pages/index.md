@@ -689,11 +689,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Comment? Likes?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I am always looking for new connections and opportunities. Please feel
+      free to drop me a message about anything at all. 
     media:
       fields:
         - name: name
