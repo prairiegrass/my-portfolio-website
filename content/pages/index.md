@@ -252,16 +252,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - label: See More
-        altText: See More Projects
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: ''
       color: text-primary
