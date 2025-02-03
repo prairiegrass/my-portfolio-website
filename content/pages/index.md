@@ -93,7 +93,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Technical Consultant
+      - title: Technical Writing Consultant
         subtitle: Jan 2025 - Present
         text: >
           Collaborated with several academics in the writing of a scientific
