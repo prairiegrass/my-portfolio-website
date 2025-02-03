@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Projects",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
