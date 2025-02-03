@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Resume
         altText: resume
-        url: /resume
+        url: /experience
         showIcon: false
         icon: arrowRight
         iconPosition: right
