@@ -214,7 +214,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Statistical Consultant
-        subtitle: Jan 2025
+        subtitle: Jan 2025 - Present
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
