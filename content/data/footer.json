@@ -28,7 +28,7 @@
             },
             {
                 "type": "Button",
-                "label": "Get started",
+                "label": "Projects Blog",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,
