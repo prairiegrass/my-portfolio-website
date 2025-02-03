@@ -15,13 +15,7 @@ sections:
       Fun fact: I have taught pole dancing in a foreign country and narrowly
       escaped being sex trafficked in a different one. Below are some hobbies of
       mine that may or may not be interesting to you!
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
