@@ -165,7 +165,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Machine Learning
+      - title: Machine Learning & Data Processing
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
