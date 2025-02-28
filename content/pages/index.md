@@ -234,7 +234,7 @@ sections:
         type: FeaturedItem
       - title: Population Modeling
         tagline: 2021-2022
-        subtitle: This is the item subtitle
+        subtitle: Irvine Valley College
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
