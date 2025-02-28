@@ -167,7 +167,7 @@ sections:
     items:
       - title: Machine Learning & Data Processing
         tagline: 2022-2023
-        subtitle: This is the item subtitle
+        subtitle: UC Irvine
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
