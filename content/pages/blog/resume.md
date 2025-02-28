@@ -5,9 +5,8 @@ date: '2025-01-01'
 excerpt: Statistics enthusiast with experience in programming and research.
 isFeatured: true
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  metaTitle: Resume
+  metaDescription: Resume
   type: Seo
 colors: bg-light-fg-dark
 styles:
