@@ -21,15 +21,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Download Resume
-        altText: Download Resume
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/42d979481322a289-sticker.png.png
       altText: Call me Memoji
