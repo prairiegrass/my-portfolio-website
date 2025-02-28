@@ -112,7 +112,7 @@ sections:
         tagline: June 2024 - Sept. 2024
       - type: FeaturedItem
         title: Mathematics Tutor
-        subtitle: Jan 2022 - Jan 2023
+        subtitle: ''
         text: >+
           *   Helped students to develop their own problem solving tools in
           mathematics, physics, and computer science
