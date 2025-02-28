@@ -1,5 +1,5 @@
 ---
-title: NBA Analysis
+title: NBA Predictions & Analysis
 slug: case-study-1
 date: '2022-03-25'
 excerpt: >-
