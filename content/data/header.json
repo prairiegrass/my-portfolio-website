@@ -8,8 +8,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/favicon.ico"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
