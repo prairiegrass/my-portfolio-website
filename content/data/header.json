@@ -44,7 +44,7 @@
                 },
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/blog",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
