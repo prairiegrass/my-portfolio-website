@@ -211,6 +211,10 @@ sections:
           and predator-prey interactions between Pacific cod and snow crabs
 
 
+          *   As lead researcher, designed research problem based on available
+          data and time-relevant events
+
+
           *   Won **1st place STEM Poster** at the 2023 UCI CC Honors Research
           Conference!
 
