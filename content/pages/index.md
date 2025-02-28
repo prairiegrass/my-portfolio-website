@@ -109,8 +109,14 @@ sections:
       - type: FeaturedItem
         title: Mathematics Tutor
         subtitle: Jan 2022 - Jan 2023
-        text: |
-          Helped students with their mathematics understanding.
+        text: >+
+          *   Helped students to develop their own problem solving tools in
+          mathematics, physics, and computer science
+
+
+          *   Employed dynamic teaching strategies to engage and support
+          students aged 16 to 60 in active learning
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
