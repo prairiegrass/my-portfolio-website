@@ -414,7 +414,7 @@ sections:
         title: 1st Place Speech
         subtitle: 2022 Irvine Valley College Intramural Communications Tournament
         text: |
-          Best speech out of over 60 competitors in honors IVC speech classes.
+          Best speech overall, out of 60+ students in honors IVC speech classes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
