@@ -27,17 +27,15 @@ type: PostLayout
 ---
 ### WORK EXPERIENCE 
 
-Statistical Consultant 									     Jan 2021 – Present
-
-Freelance										     	          		  Remote
+##### Statistical Consultant, Jan 2021 – Present
 
 *   Developed financial models with Monte Carlo simulations to forecast stock prices
 
 *   Researched market trends to create actionable reports that informed strategic client investments
 
-Cita Technologies 									          June 2023 – Sept. 2023
+##### Cita Technologies, June 2023 – Sept. 2023
 
-Mobile App Development Intern								     	          Buffalo Grove, IL
+###### Mobile App Development Intern
 
 *   Configured and tested updates for IoT smart sump pump mobile app, ensuring seamless hardware integration
 
@@ -45,9 +43,9 @@ Mobile App Development Intern								     	          Buffalo Grove, IL
 
 *   Led data-driven optimizations (ideation to deployment) via cross-cultural teamwork & proactive problem solving
 
-Irvine Valley College 									Jan. 2022 – June 2023
+##### Irvine Valley College, Jan. 2022 – June 2023
 
-Math Tutor										     	       	        Irvine, CA
+###### Mathematics Tutor
 
 *   Helped students to develop their own problem solving tools in mathematics, physics, and computer science
 
@@ -57,7 +55,7 @@ Math Tutor										     	       	        Irvine, CA
 
 ### RESEARCH EXPERIENCE
 
-Machine Learning/Data Processing								         UC Irvine 
+##### Machine Learning/Data Processing, UC Irvine 
 
 *   Analyzed effect of genetic and environmental factors on E. Coli growth rate with simulated annealing algorithm
 
@@ -65,13 +63,13 @@ Machine Learning/Data Processing								         UC Irvine 
 
 *   Explored data behavior with k-means clustering and t-SNE visualizations
 
-Data Analysis/Visualization									        Irvine Valley College
+##### Data Analysis/Visualization, Irvine Valley College
 
 *   Created data visualizations with Python to investigate disappearance of 11 billion Alaskan snow crabs
 
 *   Acquired and cleaned data from multiple data sets for time-series maps showing ocean temperature, population density, population range, and predator-prey interactions between Pacific cod and snow crabs
 
-Population Modeling										        Irvine Valley College 
+##### Population Modeling, Irvine Valley College 
 
 *   Designed study to assess recovery programs of the California condor and Yellowstone gray wolf populations
 
@@ -79,7 +77,7 @@ Population Modeling										        Irvine Valley College 
 
 *   Was lead researcher and guided team members through their roles
 
-Numerical Analysis Simulation								        Irvine Valley College 
+##### Numerical Analysis Simulation, Irvine Valley College 
 
 *   Used C++ to apply Euler’s method of numerical analysis to create simulation of coupled spring-mass systems
 
