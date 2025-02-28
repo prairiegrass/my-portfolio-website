@@ -437,6 +437,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: 2022 UCI CC Re
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
