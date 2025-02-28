@@ -58,7 +58,7 @@ sections:
     subtitle: ''
     items:
       - title: Statistical Consultant
-        subtitle: Freelance Business Consultant
+        subtitle: Freelance
         text: >
           Collaborated with several academics in the writing of a scientific
           article.
