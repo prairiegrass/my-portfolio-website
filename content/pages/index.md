@@ -461,7 +461,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: 1st Place Speech
-        subtitle: Sales
+        subtitle: 2022 Irvine Valley College Intramural Communications Tournament
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
