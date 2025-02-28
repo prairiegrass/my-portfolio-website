@@ -81,7 +81,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Software Engineering Intern
+        title: Mobile App Development Intern
         subtitle: June 2024 - Sept. 2024
         text: >+
           *   Configured and tested updates for IoT smart sump pump mobile app,
