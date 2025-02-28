@@ -460,7 +460,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 1st Place Intramural Communications Tournament
+        title: 1st Place Speech
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
