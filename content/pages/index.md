@@ -168,8 +168,18 @@ sections:
       - title: Machine Learning & Data Processing
         tagline: 2022-2023
         subtitle: UC Irvine
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   Analyzed effect of genetic and environmental factors on *E. Coli*
+          growth rate with simulated annealing algorithm
+
+
+          *   Utilized principal component analysis methods for data processing
+          and testing optimization hypotheses
+
+
+          *   Explored data behavior with k-means clustering and t-SNE
+          visualizations
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
