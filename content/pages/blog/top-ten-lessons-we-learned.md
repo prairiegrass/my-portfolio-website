@@ -3,13 +3,6 @@ title: Resume
 slug: top-ten-lessons-we-learned
 date: '2025-01-01'
 excerpt: Statistics enthusiast with experience in programming and research.
-featuredImage:
-  url: /images/abstract-feature2.svg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
