@@ -12,6 +12,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "About",
             "altText": "About Me page",
             "url": "/about",
