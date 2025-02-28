@@ -134,6 +134,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+        tagline: Jan 2022 - Jan 2023
     actions: []
     badge:
       label: ''
