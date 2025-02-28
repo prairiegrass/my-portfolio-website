@@ -83,8 +83,18 @@ sections:
       - type: FeaturedItem
         title: Software Engineering Intern
         subtitle: June 2024 - Sept. 2024
-        text: |
-          Tested and configured mobile app development of a smart-home device.
+        text: >+
+          *   Configured and tested updates for IoT smart sump pump mobile app,
+          ensuring seamless hardware integration
+
+
+          *   Redesigned UI/UX to improve aesthetic appeal and reduce feature
+          discovery time by 30% through A/B testing
+
+
+          *   Led data-driven optimizations (ideation to deployment) via
+          cross-cultural teamwork & proactive problem solving
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
