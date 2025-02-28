@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: /images/42d979481322a289-sticker.png.png
-      altText: Unblock your team boost your time to production preview
+      altText: Call me Memoji
       elementId: ''
       type: ImageBlock
     badge:
