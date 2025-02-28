@@ -57,7 +57,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Technical Writing Consultant
+      - title: Statistical Consultant
         subtitle: Jan 2025 - Present
         text: >
           Collaborated with several academics in the writing of a scientific
