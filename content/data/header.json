@@ -23,7 +23,7 @@
         {
             "label": "Resume",
             "altText": "Resume",
-            "url": "/blog",
+            "url": "/resume",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
