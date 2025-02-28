@@ -201,8 +201,19 @@ sections:
       - title: Data Analysis & Visualization
         tagline: 2022-2023
         subtitle: Irvine Valley College
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          *   Created data visualizations with Python to investigate
+          disappearance of 11 billion Alaskan snow crabs
+
+
+          *   Acquired and cleaned data from multiple data sets for time-series
+          maps showing ocean temperature, population
+
+              density, population range, and predator-prey interactions between Pacific cod and snow crabs
+
+          *   Won **1st place STEM Poster** at the 2023 UCI CC Honors Research
+          Conference!
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
