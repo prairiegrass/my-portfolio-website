@@ -166,7 +166,7 @@ sections:
     subtitle: ''
     items:
       - title: Machine Learning & Data Processing
-        tagline: This is the tagline
+        tagline: 2022-2023
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
