@@ -198,7 +198,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Data Analysis
+      - title: Data Analysis & Visualization
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
