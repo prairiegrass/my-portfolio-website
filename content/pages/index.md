@@ -58,7 +58,7 @@ sections:
     subtitle: ''
     items:
       - title: Statistical Consultant
-        subtitle: Jan 2025 - Present
+        subtitle: Freelance Business Consultant
         text: >
           Collaborated with several academics in the writing of a scientific
           article.
