@@ -85,15 +85,15 @@ Numerical Analysis Simulation								        Irvine Valley College 
 
 ### EDUCATION 
 
-##### University of California - Los Angeles	
+##### University of California - Los Angeles
 
-###### B.S Statistics & Applied Mathematics	
+###### B.S Statistics & Applied Mathematics, Dec. 2025
 
 *   Relevant courses: Mathematical Statistics, Linear Algebra, Financial Statistics, Geostatistics
 
-Irvine Valley College						                     	        	          		       May 2023 
+##### Irvine Valley College
 
-A.S. Mathematics & Physics, Summa Cum Laude			   			           		        Irvine, CA
+###### A.S. Mathematics & Physics, Summa Cum Laude, May 2023
 
 *   Relevant Courses: Differential Equations; Calculus; Materials Science; Solidworks; MATLAB; General Chemistry; General Physics; Data Structures; C++; Python
 
@@ -107,6 +107,6 @@ A.S. Mathematics & Physics, Summa Cum Laude			   			           		      
 
 *   First Place - Irvine Valley College Intramural Communications Tournament, Spring 2022
 
-SKILLS
+### SKILLS
 
 LaTeX, R, R Markdown, Python, MATLAB, C++, Solidworks, Quantitative Analysis, Machine Learning, Social Network Analysis, Data Communication, Data Visualization, Experimental Design, Pole Dance, Drink Mixing
