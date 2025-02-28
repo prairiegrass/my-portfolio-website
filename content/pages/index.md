@@ -219,7 +219,7 @@ sections:
           Conference!
 
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2025-02-28 at 2.03.11 PM.png
           altText: Placeholder image
           styles:
             self:
