@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/42d979481322a289-sticker.png.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
