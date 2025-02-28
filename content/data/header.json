@@ -22,7 +22,7 @@
         },
         {
             "label": "Resume",
-            "altText": "Projects",
+            "altText": "Resume",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
