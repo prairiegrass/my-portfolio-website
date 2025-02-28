@@ -109,7 +109,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: Cita Technologies
+        tagline: June 2024 - Sept. 2024
       - type: FeaturedItem
         title: Mathematics Tutor
         subtitle: Jan 2022 - Jan 2023
