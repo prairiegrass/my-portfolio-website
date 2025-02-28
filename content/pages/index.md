@@ -418,7 +418,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: First Place (tie) STEM Poster
+        title: 1st Place (tie) STEM Poster
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
