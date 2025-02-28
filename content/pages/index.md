@@ -419,7 +419,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 1st Place (tie) STEM Poster
-        subtitle: Marketing
+        subtitle: 2022 UCI CC Research Conference
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
