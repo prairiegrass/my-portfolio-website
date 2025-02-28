@@ -8,7 +8,7 @@ topSections:
       text: Resume
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/resume.md
     showThumbnail: true
