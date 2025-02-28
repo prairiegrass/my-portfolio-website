@@ -7,7 +7,7 @@ sections:
       text: Anna Dupree
       color: text-dark
       type: TitleBlock
-    subtitle: Statistics Enthusiast
+    subtitle: B.S. Statistics and Data Science & Applied Mathematics
     text: >
       Senior UCLA student of Statistics and Applied Mathematics. Willing to draw
       anything!
