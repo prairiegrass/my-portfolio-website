@@ -35,6 +35,10 @@ sections:
       altText: Call me Memoji
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-2
     badge:
       label: This is a badge
       color: text-primary
