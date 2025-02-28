@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: UCLA B.S. Statistics and Data Science & Applied Mathematics
-    text: >
-      Senior UCLA student of Statistics and Applied Mathematics. Willing to draw
-      anything!
+    text: |
+      Willing to draw anything!
     actions:
       - label: Resume
         altText: resume
