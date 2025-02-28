@@ -444,7 +444,7 @@ sections:
         tagline: ''
       - type: FeaturedItem
         title: 1st Place Persuasive Speech
-        subtitle: Engineering
+        subtitle: 2022 PSCFA Cool-Off Tournament
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
