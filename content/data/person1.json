@@ -1,8 +1,7 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Anna Dupree",
+    "role": "",
     "image": {
-        "url": "/images/avatar1.svg",
         "altText": "Rhonda Piper",
         "styles": {
             "self": {
@@ -32,5 +31,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Statistics enthusiast with a passion for the endless possibilities of data.\n"
 }
