@@ -34,15 +34,6 @@
             "altText": "More Pages Dropdown",
             "links": [
                 {
-                    "label": "Resume",
-                    "url": "/resume",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Resume"
-                },
-                {
                     "label": "Projects",
                     "url": "/blog",
                     "icon": "arrowRight",
