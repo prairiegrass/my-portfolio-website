@@ -443,7 +443,7 @@ sections:
             justifyContent: center
         tagline: ''
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: 1st Place Persuasive Speech
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
