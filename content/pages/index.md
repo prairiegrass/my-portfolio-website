@@ -235,9 +235,17 @@ sections:
       - title: Population Modeling
         tagline: 2021-2022
         subtitle: Irvine Valley College
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *   Designed study to assess recovery programs of the California
+          condor and Yellowstone gray wolf populations
+
+
+          *   Implemented novel application of logistical model and
+          Lotka-Volterra (predator-prey) model
+
+
+          *   Was lead researcher and guided team members through their roles
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
