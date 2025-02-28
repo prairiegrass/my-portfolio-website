@@ -43,7 +43,7 @@
                     "altText": "Resume"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Projects",
                     "url": "/blog",
                     "icon": "arrowRight",
                     "iconPosition": "right",
