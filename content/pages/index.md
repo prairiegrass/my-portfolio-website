@@ -200,7 +200,7 @@ sections:
         type: FeaturedItem
       - title: Data Analysis & Visualization
         tagline: 2022-2023
-        subtitle: This is the item subtitle
+        subtitle: Irvine Valley College
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
