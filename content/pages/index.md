@@ -199,7 +199,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Data Analysis & Visualization
-        tagline: This is the tagline
+        tagline: 2022-2023
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
