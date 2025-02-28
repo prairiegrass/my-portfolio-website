@@ -241,7 +241,7 @@ sections:
         subtitle: Irvine Valley College
         text: "*   Designed study to assess recovery programs of the California condor and Yellowstone gray wolf populations\n\n*   Implemented novel application of logistical model and Lotka-Volterra (predator-prey) model\n\n*   Was lead researcher and guided team members through their roles\n\n*   Tied for\_**1st place STEM Poster**\_at the 2022 UCI CC Honors Research Conference!\n\n*   Presented at the 2023 Bay Honors Research Symposium as oral presentation\n\n"
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-02-28 at 1.58.39 PM.png
           altText: Placeholder image
           styles:
             self:
