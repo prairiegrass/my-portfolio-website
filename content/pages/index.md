@@ -32,7 +32,7 @@ sections:
             - pl-2
             - pr-2
     badge:
-      label: This is a badge
+      label: Statistics Enthusiast
       color: text-primary
       type: Badge
     elementId: ''
