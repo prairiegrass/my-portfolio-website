@@ -82,7 +82,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Mobile App Development Intern
-        subtitle: ''
+        subtitle: Cita Technologies
         text: >+
           *   Configured and tested updates for IoT smart sump pump mobile app,
           ensuring seamless hardware integration
