@@ -25,12 +25,7 @@ styles:
     flexDirection: row
 type: PostLayout
 ---
-
-WORK EXPERIENCE 
-----------------
-
-
-
+### WORK EXPERIENCE 
 
 Statistical Consultant 									     Jan 2021 – Present
 
@@ -60,13 +55,7 @@ Math Tutor										     	       	        Irvine, CA
 
 *   Employed dynamic teaching strategies to engage and support students aged 16 to 60 in active learning
 
-
-
-
-## RESEARCH EXPERIENCE
-
-
-
+### RESEARCH EXPERIENCE
 
 Machine Learning/Data Processing								         UC Irvine 
 
@@ -94,16 +83,11 @@ Numerical Analysis Simulation								        Irvine Valley College 
 
 *   Used C++ to apply Euler’s method of numerical analysis to create simulation of coupled spring-mass systems
 
+### EDUCATION 
 
+##### University of California - Los Angeles	
 
-
-## EDUCATION 
-
-	
-
-University of California - Los Angeles			                     	        		         December 2025
-
-B.S Statistics & Applied Mathematics			   			           			Los Angeles, CA
+###### B.S Statistics & Applied Mathematics	
 
 *   Relevant courses: Mathematical Statistics, Linear Algebra, Financial Statistics, Geostatistics
 
@@ -113,8 +97,7 @@ A.S. Mathematics & Physics, Summa Cum Laude			   			           		      
 
 *   Relevant Courses: Differential Equations; Calculus; Materials Science; Solidworks; MATLAB; General Chemistry; General Physics; Data Structures; C++; Python
 
-
-## AWARDS 
+### AWARDS 
 
 *   First Place STEM Poster - UCI CC Honors Research Conference 2023
 
@@ -124,15 +107,6 @@ A.S. Mathematics & Physics, Summa Cum Laude			   			           		      
 
 *   First Place - Irvine Valley College Intramural Communications Tournament, Spring 2022
 
-
-
-
 SKILLS
 
-
-
-
 LaTeX, R, R Markdown, Python, MATLAB, C++, Solidworks, Quantitative Analysis, Machine Learning, Social Network Analysis, Data Communication, Data Visualization, Experimental Design, Pole Dance, Drink Mixing
-
-
-
