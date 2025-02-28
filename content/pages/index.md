@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: UCLA B.S. Statistics and Data Science & Applied Mathematics
     text: |
-      Willing to draw anything!
+      I will draw your pets!
     actions:
       - label: Resume
         altText: resume
