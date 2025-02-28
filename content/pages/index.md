@@ -207,9 +207,9 @@ sections:
 
 
           *   Acquired and cleaned data from multiple data sets for time-series
-          maps showing ocean temperature, population
+          maps showing ocean temperature, population density, population range,
+          and predator-prey interactions between Pacific cod and snow crabs
 
-              density, population range, and predator-prey interactions between Pacific cod and snow crabs
 
           *   Won **1st place STEM Poster** at the 2023 UCI CC Honors Research
           Conference!
