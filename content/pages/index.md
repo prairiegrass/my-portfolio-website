@@ -59,9 +59,14 @@ sections:
     items:
       - title: Statistical Consultant
         subtitle: Freelance
-        text: >
-          Collaborated with several academics in the writing of a scientific
-          article.
+        text: >+
+          *   Developed financial models with Monte Carlo simulations to
+          forecast stock prices
+
+
+          *   Researched market trends to create actionable reports that
+          informed strategic client investments
+
         image:
           altText: Featured icon two
           elementId: ''
