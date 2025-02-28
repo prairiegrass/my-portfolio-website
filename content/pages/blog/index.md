@@ -33,7 +33,6 @@ styles:
 seo:
   metaTitle: Projects
   metaDescription: Projects Blog
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
