@@ -420,10 +420,14 @@ sections:
       - type: FeaturedItem
         title: 1st Place (tie) STEM Poster
         subtitle: 2022 UCI CC Research Conference
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **Mathematical Modeling of California Condor and Grey Wolf Populations
+          with Restoration Efforts**
+
+
+          A comparison of population recovery programs of the California condor
+          and Yellowstone gray wolf populations using a logistical population
+          growth model and the Lotka-Volterra (predator-prey) model.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
