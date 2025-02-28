@@ -80,6 +80,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: Jan 2021 - Present
       - type: FeaturedItem
         title: Mobile App Development Intern
         subtitle: Cita Technologies
