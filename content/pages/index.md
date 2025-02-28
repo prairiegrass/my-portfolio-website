@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Resume
         altText: resume
-        url: /posts/resume
+        url: /blog/resume
         showIcon: false
         icon: arrowRight
         iconPosition: right
