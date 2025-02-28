@@ -1,6 +1,6 @@
 ---
 title: Resume
-slug: top-ten-lessons-we-learned
+slug: resume
 date: '2025-01-01'
 excerpt: Statistics enthusiast with experience in programming and research.
 isFeatured: true

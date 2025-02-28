@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -22,9 +21,9 @@
             "type": "Link"
         },
         {
-            "label": "Projects",
-            "altText": "Projects",
-            "url": "/blog",
+            "label": "Resume",
+            "altText": "Resume",
+            "url": "/resume",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -35,17 +34,8 @@
             "altText": "More Pages Dropdown",
             "links": [
                 {
-                    "label": "Resume",
-                    "url": "/resume",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Resume"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Projects",
+                    "url": "/blog",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
