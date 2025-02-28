@@ -341,7 +341,7 @@ sections:
       - type: FeaturedItem
         title: 1st Place STEM Poster
         subtitle: 2023 UCI CC Honors Research Conference
-        text: >
+        text: >+
           First place STEM Poster in regional research conference among hundreds
           of presentations!
 
@@ -354,6 +354,7 @@ sections:
           ocean temperature data, survey population data of snow crabs and
           Pacific cod (their primary predator), and time into our dynamic
           visualizations.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
