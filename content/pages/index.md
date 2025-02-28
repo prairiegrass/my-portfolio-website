@@ -397,8 +397,8 @@ sections:
         title: 1st Place Persuasive Speech
         subtitle: 2022 PSCFA Cool-Off Tournament
         text: >
-          Regional forensics tournament among speech teams across the state of
-          California.
+          Best Persuasive Speech in regional forensics tournament among speech
+          teams across the state of California.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
