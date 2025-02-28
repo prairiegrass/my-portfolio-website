@@ -46,6 +46,26 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: UCLA
+      color: text-dark
+      type: TitleBlock
+    subtitle: B.S. Statistics and Data Science & Applied Mathematics
+    text: |
+      December 2025
+    actions: []
+    media:
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: Education
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: EXPERIENCE
@@ -321,26 +341,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - title:
-      text: UCLA
-      color: text-dark
-      type: TitleBlock
-    subtitle: B.S. Statistics and Data Science & Applied Mathematics
-    text: |
-      December 2025
-    actions: []
-    media:
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: Education
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
