@@ -55,39 +55,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: ''
-    images:
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: SKILLS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       text: EXPERIENCE
@@ -416,6 +383,39 @@ sections:
     title:
       type: TitleBlock
       text: AWARDS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+  - subtitle: ''
+    images:
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: SKILLS
       color: text-dark
       styles:
         self:
