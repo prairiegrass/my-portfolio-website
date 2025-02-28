@@ -389,7 +389,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: 1st Place STEM Poster
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
