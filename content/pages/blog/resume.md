@@ -23,13 +23,13 @@ featuredImage:
 ---
 <div style="text-align: center">### WORK EXPERIENCE </div>
 
-##### Statistical Consultant, Jan 2021 – Present
+##### Statistical Consultant, *Jan 2021 – Present*
 
 *   Developed financial models with Monte Carlo simulations to forecast stock prices
 
 *   Researched market trends to create actionable reports that informed strategic client investments
 
-##### Cita Technologies, June 2023 – Sept. 2023
+##### Cita Technologies, *June 2023 – Sept. 2023*
 
 ###### **Mobile App Development Intern**
 
@@ -39,7 +39,7 @@ featuredImage:
 
 *   Led data-driven optimizations (ideation to deployment) via cross-cultural teamwork & proactive problem solving
 
-##### Irvine Valley College, Jan. 2022 – June 2023
+##### Irvine Valley College, *Jan. 2022 – June 2023*
 
 ###### **Mathematics Tutor**
 
@@ -48,7 +48,7 @@ featuredImage:
 
 <div style="text-align: center">### RESEARCH EXPERIENCE</div>
 
-##### **Machine Learning & Data Processing**, UC Irvine 
+##### **Machine Learning & Data Processing**, *UC Irvine *
 
 *   Analyzed effect of genetic and environmental factors on E. Coli growth rate with simulated annealing algorithm
 
@@ -56,13 +56,13 @@ featuredImage:
 
 *   Explored data behavior with k-means clustering and t-SNE visualizations
 
-##### **Data Analysis & Visualization**, Irvine Valley College
+##### **Data Analysis & Visualization**, *Irvine Valley College*
 
 *   Created data visualizations with Python to investigate disappearance of 11 billion Alaskan snow crabs
 
 *   Acquired and cleaned data from multiple data sets for time-series maps showing ocean temperature, population density, population range, and predator-prey interactions between Pacific cod and snow crabs
 
-##### **Population Modeling**, Irvine Valley College 
+##### **Population Modeling**, *Irvine Valley College *
 
 *   Designed study to assess recovery programs of the California condor and Yellowstone gray wolf populations
 
@@ -70,19 +70,19 @@ featuredImage:
 
 *   Was lead researcher and guided team members through their roles
 
-##### **Numerical Analysis Simulation**, Irvine Valley College 
+##### **Numerical Analysis Simulation**, *Irvine Valley College *
 
 *   Used C++ to apply Euler’s method of numerical analysis to create simulation of coupled spring-mass systems
 
 <div style="text-align: center">### EDUCATION </div>
 
-##### University of California - Los Angeles
+##### *University of California - Los Angeles*
 
 ###### **B.S Statistics & Applied Mathematics**, Dec. 2025
 
 *   Relevant courses: Mathematical Statistics, Linear Algebra, Financial Statistics, Geostatistics
 
-##### Irvine Valley College
+##### *Irvine Valley College*
 
 ###### **A.S. Mathematics & Physics**, Summa Cum Laude, May 2023
 
