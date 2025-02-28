@@ -7,10 +7,9 @@ sections:
       text: Anna Dupree
       color: text-dark
       type: TitleBlock
-    subtitle: Statistics Enthusiast
-    text: >
-      Senior UCLA student of Statistics and Applied Mathematics. Willing to draw
-      anything!
+    subtitle: UCLA B.S. Statistics and Data Science & Applied Mathematics
+    text: |
+      I will draw your pets!
     actions:
       - label: Resume
         altText: resume
@@ -21,22 +20,18 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Download Resume
-        altText: Download Resume
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/42d979481322a289-sticker.png.png
+      altText: Call me Memoji
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-2
+            - pr-2
     badge:
-      label: This is a badge
+      label: Statistics Enthusiast
       color: text-primary
       type: Badge
     elementId: ''
@@ -50,39 +45,17 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: ''
-    images:
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: SKILLS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       text: EXPERIENCE
@@ -90,14 +63,20 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Technical Writing Consultant
-        subtitle: Jan 2025 - Present
-        text: >
-          Collaborated with several academics in the writing of a scientific
-          article.
+      - title: Statistical Consultant
+        subtitle: Freelance
+        text: >+
+          *   Developed financial models with Monte Carlo simulations to
+          forecast stock prices
+
+
+          *   Researched market trends to create actionable reports that
+          informed strategic client investments
+
         image:
           altText: Featured icon two
           elementId: ''
@@ -116,11 +95,22 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: Jan 2021 - Present
       - type: FeaturedItem
-        title: Software Engineering Intern
-        subtitle: June 2024 - Sept. 2024
-        text: |
-          Tested and configured mobile app development of a smart-home device.
+        title: Mobile App Development Intern
+        subtitle: Cita Technologies
+        text: >+
+          *   Configured and tested updates for IoT smart sump pump mobile app,
+          ensuring seamless hardware integration
+
+
+          *   Redesigned UI/UX to improve aesthetic appeal and reduce feature
+          discovery time by 30% through A/B testing
+
+
+          *   Led data-driven optimizations (ideation to deployment) via
+          cross-cultural teamwork & proactive problem solving
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -135,18 +125,18 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
+        tagline: June 2024 - Sept. 2024
       - type: FeaturedItem
         title: Mathematics Tutor
-        subtitle: Jan 2022 - Jan 2023
-        text: |
-          Helped students with their mathematics understanding.
+        subtitle: Irvine Valley College
+        text: >+
+          *   Helped students to develop their own problem solving tools in
+          mathematics, physics, and computer science
+
+
+          *   Employed dynamic teaching strategies to engage and support
+          students aged 16 to 60 in active learning
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -160,6 +150,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+        tagline: Jan 2022 - Jan 2023
     actions: []
     badge:
       label: ''
@@ -181,6 +172,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: RESEARCH
       color: text-primary
@@ -190,13 +192,23 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Machine Learning
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Machine Learning & Data Processing
+        tagline: 2022-2023
+        subtitle: UC Irvine
+        text: >+
+          *   Analyzed effect of genetic and environmental factors on *E. Coli*
+          growth rate with simulated annealing algorithm
+
+
+          *   Utilized principal component analysis methods for data processing
+          and testing optimization hypotheses
+
+
+          *   Explored data behavior with k-means clustering and t-SNE
+          visualizations
+
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-02-28 at 2.19.44 PM.png
           altText: Placeholder Image
           styles:
             self:
@@ -213,13 +225,28 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Data Analysis
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Data Analysis & Visualization
+        tagline: 2022-2023
+        subtitle: Irvine Valley College
+        text: >+
+          *   Created data visualizations with Python to investigate
+          disappearance of 11 billion Alaskan snow crabs
+
+
+          *   Acquired and cleaned data from multiple data sets for time-series
+          maps showing ocean temperature, population density, population range,
+          and predator-prey interactions between Pacific cod and snow crabs
+
+
+          *   As lead researcher, designed research problem based on available
+          data and time-relevant events
+
+
+          *   Won **1st place STEM Poster** at the 2023 UCI CC Honors Research
+          Conference!
+
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2025-02-28 at 2.03.11 PM.png
           altText: Placeholder image
           styles:
             self:
@@ -237,13 +264,11 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Population Modeling
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        tagline: 2021-2022
+        subtitle: Irvine Valley College
+        text: "*   Designed study to assess recovery programs of the California condor and Yellowstone gray wolf populations\n\n*   Implemented novel application of logistical model and Lotka-Volterra (predator-prey) model\n\n*   Was lead researcher and guided team members through their roles\n\n*   Tied for\_**1st place STEM Poster**\_at the 2022 UCI CC Honors Research Conference!\n\n*   Presented at the 2023 Bay Honors Research Symposium as oral presentation\n\n"
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-02-28 at 1.58.39 PM.png
           altText: Placeholder image
           styles:
             self:
@@ -273,141 +298,18 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: ''
-    title:
-      type: TitleBlock
-      text: PROJECTS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    actions:
-      - type: Button
-        label: See More
-        altText: See More Projects
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-  - title:
-      text: UCLA
-      color: text-dark
-      type: TitleBlock
-    subtitle: B.S. Statistics and Data Science & Applied Mathematics
-    text: |
-      Sound theoretical background in the mathematical aspects of data analysis.
-    actions: []
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: Education
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: 1st Place STEM Poster (tie)
-        tagline: 2022 UCI CC Honors Research Conference
-        subtitle: Data Analysis
-        text: |
-          Description of project
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Project 1
-        tagline: Exploratory Data Analysis
-        subtitle: Summary
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: AWARDS
@@ -415,6 +317,110 @@ sections:
       styles:
         self:
           textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: 1st Place STEM Poster
+        subtitle: 2023 UCI CC Honors Research Conference
+        text: >
+          First place STEM Poster in regional research conference among 60+
+          presentations!
+
+
+          **Seven Billion Alaskan Snow Crabs Vanished. What happened?**
+
+
+          A data visualization analysis exploring the reasons for a historic and
+          drastic decline in Alaskan snow crab populations. We incorporated
+          ocean temperature data, survey population data of snow crabs and
+          Pacific cod (their primary predator), and time into our dynamic
+          visualizations.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 1st Place (tie) STEM Poster
+        subtitle: 2022 UCI CC Research Conference
+        text: >
+          **Mathematical Modeling of California Condor and Grey Wolf Populations
+          with Restoration Efforts**
+
+
+          A comparison of population recovery programs of the California condor
+          and Yellowstone gray wolf populations using a logistical population
+          growth model and the Lotka-Volterra (predator-prey) model.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+        tagline: ''
+      - type: FeaturedItem
+        title: 1st Place Persuasive Speech
+        subtitle: 2022 PSCFA Cool-Off Tournament
+        text: >
+          Best Persuasive Speech in regional forensics tournament among speech
+          teams across the state of California.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: 1st Place Speech
+        subtitle: 2022 Irvine Valley College Intramural Communications Tournament
+        text: |
+          Best speech overall, out of 60+ students in honors IVC speech classes.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
