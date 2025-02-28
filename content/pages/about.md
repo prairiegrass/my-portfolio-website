@@ -19,7 +19,6 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
