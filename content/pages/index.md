@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/42d979481322a289-sticker.png.png
+      url: /images/hero-img.png
       altText: Call me Memoji
       elementId: ''
       type: ImageBlock
