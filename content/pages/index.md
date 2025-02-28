@@ -208,7 +208,7 @@ sections:
           visualizations
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-02-28 at 2.19.44 PM.png
           altText: Placeholder Image
           styles:
             self:
