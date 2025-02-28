@@ -7,7 +7,6 @@ isFeatured: true
 seo:
   metaTitle: Resume
   metaDescription: Resume
-  socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
 styles:
