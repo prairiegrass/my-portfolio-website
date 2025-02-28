@@ -391,10 +391,19 @@ sections:
       - type: FeaturedItem
         title: 1st Place STEM Poster
         subtitle: 2023 UCI CC Honors Research Conference
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          First place STEM Poster in regional research conference among hundreds
+          of presentations!
+
+
+          **Seven Billion Alaskan Snow Crabs Vanished. What happened?**
+
+
+          A data visualization analysis exploring the reasons for a historic and
+          drastic decline in Alaskan snow crab populations. We incorporated
+          ocean temperature data, survey population data of snow crabs and
+          Pacific cod (their primary predator), and time into our dynamic
+          visualizations.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
