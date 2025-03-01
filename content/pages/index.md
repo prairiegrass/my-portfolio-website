@@ -58,7 +58,7 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: EXPERIENCE
+      text: WORK EXPERIENCE
       color: text-dark
       styles:
         self:
