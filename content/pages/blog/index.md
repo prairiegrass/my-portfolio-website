@@ -42,7 +42,7 @@ postFeed:
   subtitle: null
   showThumbnail: false
   showExcerpt: false
-  showDate: true
+  showDate: false
   showAuthor: false
   actions: []
   elementId: null
