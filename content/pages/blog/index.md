@@ -1,7 +1,7 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 8
+numOfPostsPerPage: -68
 enableSearch: true
 topSections:
   - title:
@@ -40,9 +40,9 @@ postFeed:
   type: PagedPostsSection
   title: null
   subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
+  showThumbnail: false
+  showExcerpt: false
+  showDate: false
   showAuthor: false
   actions: []
   elementId: null
