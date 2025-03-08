@@ -25,7 +25,7 @@ featuredImage:
 
 ##### Statistical Consultant
 
-*Jan 2021 – Present*
+*Jan 2024 – Present*
 
 ###### **Freelance Consultant**
 
