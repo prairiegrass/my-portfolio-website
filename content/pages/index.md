@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/hero-img.png
+      url: /images/hero-img-0.png
       altText: Call me Memoji
       elementId: ''
       type: ImageBlock
