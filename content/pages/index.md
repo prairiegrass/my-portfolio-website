@@ -58,11 +58,14 @@ sections:
           - pr-3
   - type: GenericSection
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      *Questa è la vita! L'ebete
+      vita che c'innamora,
+      lenta che pare un secolo,
+      breve che pare un'ora.*
+
+      Arrigo Boito
+
     actions: []
     colors: bg-light-fg-dark
     styles:
