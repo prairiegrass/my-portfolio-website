@@ -212,7 +212,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: RESEARCH
+      text: PROJECTS
       color: text-primary
       styles:
         self:
