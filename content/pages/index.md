@@ -59,10 +59,10 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |
-      *Questa è la vita! L'ebete*
-      *vita che c'innamora,*
-      *lenta che pare un secolo,*
-      *breve che pare un'ora.*
+      *Questa è la vita! L'ebete* \
+      *vita che c'innamora,* \
+      *lenta che pare un secolo,* \
+      *breve che pare un'ora.* \
 
       <div style="text-align: center">**Arrigo Boito**</div>
     actions: []
