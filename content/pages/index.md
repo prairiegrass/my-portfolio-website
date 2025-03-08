@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/hero-img-1.png
+      url: /images/hero-img-0.png
       altText: Call me Memoji
       elementId: ''
       type: ImageBlock
@@ -45,6 +45,34 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: GenericSection
+    subtitle: ''
+    text: |
+      <div style="text-align: center">*Questa è la vita! L'ebete*</div>
+      <div style="text-align: center">*vita che c'innamora,*</div>
+      <div style="text-align: center">*lenta che pare un secolo,*</div>
+      <div style="text-align: center">*breve che pare un'ora.*</div>
+
+      <div style="text-align: center">**Arrigo Boito**</div>
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
