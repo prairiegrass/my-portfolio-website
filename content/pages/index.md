@@ -58,17 +58,16 @@ sections:
           - pr-3
   - type: GenericSection
     subtitle: ''
-    text: |+
-      <div style="text-align: center">> *Questa è la vita! L'ebete*</div>
+    text: |
+      <div style="text-align: center"> *Questa è la vita! L'ebete*</div>
 
-      <div style="text-align: center">> *vita che c'innamora,*</div>
+      <div style="text-align: center"> *vita che c'innamora,*</div>
 
-      <div style="text-align: center">> *lenta che pare un secolo,*</div>
+      <div style="text-align: center"> *lenta che pare un secolo,*</div>
 
-      <div style="text-align: center">> *breve che pare un'ora.*</div>
+      <div style="text-align: center"> *breve che pare un'ora.*</div>
 
       <div style="text-align: center">**Arrigo Boito**</div>
-
     actions: []
     colors: bg-light-fg-dark
     styles:
