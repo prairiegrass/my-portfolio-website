@@ -58,14 +58,19 @@ sections:
           - pr-3
   - type: GenericSection
     subtitle: ''
-    text: |+
-      *Questa è la vita! L'ebete
-      vita che c'innamora,
-      lenta che pare un secolo,
+    text: |
+      *Questa è la vita! L'ebete*
+
+      *
+      vita che c'innamora,*
+
+      *
+      lenta che pare un secolo,*
+
+      *
       breve che pare un'ora.*
 
       Arrigo Boito
-
     actions: []
     colors: bg-light-fg-dark
     styles:
