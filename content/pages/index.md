@@ -61,14 +61,11 @@ sections:
     text: |
       *Questa è la vita! L'ebete*
 
-      *
-      vita che c'innamora,*
+      *vita che c'innamora,*
 
-      *
-      lenta che pare un secolo,*
+      *lenta che pare un secolo,*
 
-      *
-      breve che pare un'ora.*
+      *breve che pare un'ora.*
 
       Arrigo Boito
     actions: []
