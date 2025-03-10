@@ -41,6 +41,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Projects",
+            "altText": "",
+            "url": "/blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "More",
             "altText": "More Pages Dropdown",
             "links": [
@@ -55,17 +66,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Projects",
-            "altText": "",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
