@@ -50,22 +50,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "label": "More",
-            "altText": "More Pages Dropdown",
-            "links": [
-                {
-                    "label": "Projects",
-                    "url": "/blog",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
