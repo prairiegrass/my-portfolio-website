@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Resume
         altText: resume
-        url: resume.pdf
+        url: /resume.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
