@@ -41,20 +41,15 @@
             "type": "Link"
         },
         {
-            "label": "More",
-            "altText": "More Pages Dropdown",
-            "links": [
-                {
-                    "label": "Projects",
-                    "url": "/blog",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "Link",
+            "label": "Projects",
+            "altText": "",
+            "url": "/blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
