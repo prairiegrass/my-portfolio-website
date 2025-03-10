@@ -58,7 +58,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Projects",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
