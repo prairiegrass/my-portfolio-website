@@ -120,15 +120,22 @@ We are left with approximately 98% of the original observations. Since the datas
 
 ## Feature Engineering
 
-Next, we want to do some feature engineering. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation:
+Next, we want to do some feature engineering. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation. Below is a list of all the features I extracted:
 
-*   $ϕ1,ϕ2ϕ1,ϕ2$ are latitudes of point 1 and point 2
+*   `trip\_distance\_km`: Trip distance in kilometers (based on Haversine equation for spherical distance)
 
-*   λ1,λ2λ1,λ2 are longitutdes of point 1 and point 2
+*   `pickup\_dist\_cc\_km`: Pickup distance from city center (where the city center is the mean longitude and mean latitude of all pickup locations)
 
-*   rr is the spherical radius
+*   `dropoff\_dist\_cc\_km`: Drop off distance from city center
 
-*   dd is the distance between points
+*   `year`: Calendar year of the trip
 
-d=2r∙arcsin(√sin2(ϕ2−ϕ12)+cos(ϕ1)∙cos(ϕ2)∙sin2(λ2−λ12))
+*   `month`: Calendar month of the trip
 
+*   `day\_of\_week`: Week day of the trip
+
+*   `day\_of\_year`: Calendar day of month of the trip
+
+*   `day_ordinal_shifted`: Day of year between 1 and 365
+
+*   `time_proportion`: Pickup time normalized to a \[0,1] scale where the day starts at 12am.
