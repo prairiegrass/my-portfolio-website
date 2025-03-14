@@ -3,10 +3,9 @@ title: Spotify Through the Ages
 slug: case-study-3
 date: '2023-05-24'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  IntroductionThis article will examine the changes in popular music over time.
+  Two datasets from Kaggle were used to analyze song trends: Spotify Data
+  1921-2020 and Billboard Hot 100 Songs.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
