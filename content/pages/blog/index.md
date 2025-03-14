@@ -5,7 +5,7 @@ numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
-      text: Resume
+      text: 'Spotify Through the '
       color: text-dark
       type: TitleBlock
     subtitle: ''
