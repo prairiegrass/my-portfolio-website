@@ -134,8 +134,25 @@ Next, we want to do some feature engineering. The most obvious feature to implem
 
 *   `day\_of\_week`: Week day of the trip
 
-*   `day\_of\_year`: Calendar day of month of the trip
+*   `day\_of\_year`: Day of year between 1 and 365
 
-*   `day_ordinal_shifted`: Day of year between 1 and 365
+*   `day_ordinal_shifted`: Days since first Uber trip in dataset
 
-*   `time_proportion`: Pickup time normalized to a \[0,1] scale where the day starts at 12am.
+*   `time_proportion`: Pickup time normalized to a \[0,1] scale where the day starts at 12am
+
+Now we explore some of these new features.
+
+#### Histogram of Time Proportion Feature
+
+![](/images/uber_time_proportion.png)
+
+#### Histogram of Day of Year Feature
+
+![](/images/uber_day_of_year.png)
+
+\#### Histogram of Trip Distance Without Outliers
+
+
+
+#### Histogram of Pickup Distance from City Center Without Outliers
+
