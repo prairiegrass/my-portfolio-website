@@ -79,6 +79,8 @@ I imported the Spotify and Billboard Hot 100 data into R, and then filtered the 
 
 First, I used ggplot to visually look for trends in each attribute over the years. The colors of each point are based on the key of the song, to give more visual interest. Each point plotted with a lower opacity to better show relative cluster density. To better show change over time, I added a simple trend line using a linear model with ggplot.
 
+![](/images/spotify_simple_eda.png)
+
 ## Exploring Attribute Trends
 
 With the initial look out of the way, it seems like the attributes that are likely to have changed over the years are:
