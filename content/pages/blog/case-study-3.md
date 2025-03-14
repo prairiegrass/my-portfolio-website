@@ -79,8 +79,6 @@ I imported the Spotify and Billboard Hot 100 data into R, and then filtered the 
 
 First, I used ggplot to visually look for trends in each attribute over the years. The colors of each point are based on the key of the song, to give more visual interest. Each point plotted with a lower opacity to better show relative cluster density. To better show change over time, I added a simple trend line using a linear model with ggplot.
 
-
-
 # Exploring Attribute Trends
 
 With the initial look out of the way, it seems like the attributes that are likely to have changed over the years are:
@@ -131,6 +129,8 @@ Looking at the plot above, it seems like the following attributes are most likel
 
 Another way of looking at attribute change over time is to use a facet plot. Below, we see plots of each attribute over the years, in plots separated by decade. The horizontal line represents the average for the decade, and we can follow it to see if the average is changing over time.
 
+![](/images/spotify_change_decade.png)
+
 # Exploring Dependence Between Attributes
 
 In this last section, we will look at how different attributes relate to each other, and how this relationship may change over time.
@@ -140,6 +140,8 @@ At this point, we can agree that some attributes seem to change over time. We wi
 **NOTE:** Since A vs. B will demonstrate the same correlation as B vs. A, I am excluding the B vs. A plot in the following attribute comparison plots, given that A vs. B has already been displayed.
 
 ### Acousticness vs. Other
+
+![](/images/spotify_acousticness.png)
 
 ### Danceability vs. Other
 
