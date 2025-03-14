@@ -146,11 +146,11 @@ Now we explore some of these new features.
 
 ![](/images/uber_time_proportion.png)
 
-#### Histogram of `day_of_year`
+#### Histogram of `day_of_year Feature`
 
 ![](/images/uber_day_of_year.png)
 
-\#### Histogram of `trip_distance_km` Without Outliers
+#### Histogram of `trip_distance_km` Without Outliers
 
 ![](/images/uber_trip_dist_km.png)
 
@@ -185,6 +185,3 @@ Before using all these fancy new features in a regression model, it is important
 To double check for multicollinearity, we can look at VIF of our remaining features. VIF starts at 1, and the recommended VIF cutoff is around 5. Below, we see that all of our features are looking good!
 
 ![](/images/uber_vif.png)
-
-
-
