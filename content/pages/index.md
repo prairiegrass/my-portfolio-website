@@ -467,8 +467,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/spotify-through-the-ages.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
