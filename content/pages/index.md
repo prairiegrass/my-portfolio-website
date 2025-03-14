@@ -467,7 +467,9 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/spotify-through-the-ages.md
+      - content/pages/blog/uber-fare-predictions.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
