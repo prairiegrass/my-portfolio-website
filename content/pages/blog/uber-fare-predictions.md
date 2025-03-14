@@ -150,9 +150,13 @@ Now we explore some of these new features.
 
 ![](/images/uber_day_of_year.png)
 
-\#### Histogram of Trip Distance Without Outliers
+\#### Histogram of `trip_distance_km` Without Outliers
+
+![](/images/uber_trip_dist_km.png)
 
 #### Histogram of `pickup_dist_cc_km` Without Outliers
+
+![](/images/uber_pickup_dist_km.png)
 
 #### Removing Extra Outliers
 
@@ -165,3 +169,22 @@ Upon examination of our new features, our dataset has some extreme outliers in `
 ##### Features Summary Without Outliers
 
 ![](/images/uber_outliers_removed.png)
+
+## Feature Selection
+
+Before using all these fancy new features in a regression model, it is important to make sure that they do not have high correlations between each other. Through a simple correlation table, I decided to remove the following features that had high correlations with other features:
+
+*   dropoff\_dist\_cc\_km
+
+*   day\_of\_year
+
+*   day\_ordinal\_shifted
+
+#### Check for Variance Inflation Factors (VIF)
+
+To double check for multicollinearity, we can look at VIF of our remaining features. VIF starts at 1, and the recommended VIF cutoff is around 5. Below, we see that all of our features are looking good!
+
+![](/images/uber_vif.png)
+
+
+
