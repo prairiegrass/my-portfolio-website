@@ -106,7 +106,7 @@ We can now draw a few plots to understand the data.
 
 ## Data Cleaning
 
-We immediately see from the Uber fare distribution and the pickup location heat map that fares and pickup locations have some outliers that will confuse our model. This will be addressed with a little later. 
+We immediately see from the Uber fare distribution and the pickup location heat map that fares and pickup locations have some outliers that will confuse our model. This will be addressed with a little later.
 
 The data is first cleaned to remove bad observations where:
 
@@ -119,4 +119,16 @@ The data is first cleaned to remove bad observations where:
 We are left with approximately 98% of the original observations. Since the dataset is so large, deleting the bad observations will be the most efficient action.
 
 ## Feature Engineering
+
+Next, we want to do some feature engineering. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation:
+
+*   $ϕ1,ϕ2ϕ1,ϕ2$ are latitudes of point 1 and point 2
+
+*   λ1,λ2λ1,λ2 are longitutdes of point 1 and point 2
+
+*   rr is the spherical radius
+
+*   dd is the distance between points
+
+d=2r∙arcsin(√sin2(ϕ2−ϕ12)+cos(ϕ1)∙cos(ϕ2)∙sin2(λ2−λ12))
 
