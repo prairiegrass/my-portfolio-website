@@ -462,7 +462,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: PROJECTS
       color: text-dark
       styles:
         self:
