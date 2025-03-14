@@ -59,7 +59,7 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-# Introduction
+## Introduction
 
 This article will examine the changes in popular music over time. Two datasets from Kaggle were used to analyze song trends:
 
@@ -71,15 +71,15 @@ This article will examine the changes in popular music over time. Two datasets f
 
  All Billboard Hot 100 songs since 1958, which is when the Billboard charts started.
 
-# Data Preprocessing
+## Data Preprocessing
 
 I imported the Spotify and Billboard Hot 100 data into R, and then filtered the Spotify data so that it contained only the song names present in the Billboard Hot 100 charts. The filtered Spotify-Billboard data will be used for all plots in this report. Spotify is a large company with a lot of minds and resources, so I assuming these song attribute quantifications are reasonably accurate.
 
-# Simple Exploratory Data Analysis
+## Simple Exploratory Data Analysis
 
 First, I used ggplot to visually look for trends in each attribute over the years. The colors of each point are based on the key of the song, to give more visual interest. Each point plotted with a lower opacity to better show relative cluster density. To better show change over time, I added a simple trend line using a linear model with ggplot.
 
-# Exploring Attribute Trends
+## Exploring Attribute Trends
 
 With the initial look out of the way, it seems like the attributes that are likely to have changed over the years are:
 
@@ -125,13 +125,13 @@ Looking at the plot above, it seems like the following attributes are most likel
 
 *   Tempo (decreasing)
 
-# Looking at Change by Decade
+## Looking at Change by Decade
 
 Another way of looking at attribute change over time is to use a facet plot. Below, we see plots of each attribute over the years, in plots separated by decade. The horizontal line represents the average for the decade, and we can follow it to see if the average is changing over time.
 
 ![](/images/spotify_change_decade.png)
 
-# Exploring Dependence Between Attributes
+## Exploring Dependence Between Attributes
 
 In this last section, we will look at how different attributes relate to each other, and how this relationship may change over time.
 
@@ -163,7 +163,7 @@ At this point, we can agree that some attributes seem to change over time. We wi
 
 ### ![](/images/spotify_speechiness.png)Tempo vs. Other
 
-# ![](/images/spotify_temp.png)Conclusions
+## ![](/images/spotify_temp.png)Conclusions
 
 This project was meant to explore attribute trends in the most popular songs over time. Some results were expected, and some were not. A few interesting things that I noticed are below.
 
