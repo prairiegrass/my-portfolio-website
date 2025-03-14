@@ -98,5 +98,3 @@ We can now draw a few plots to understand the data.
 
 #### Histogram of Fare Distribution for Fares within 3 Standard Deviations of the Mean
 
-
-
