@@ -11,7 +11,6 @@ topSections:
     subtitle: ''
     posts:
       - content/pages/blog/resume.md
-      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
