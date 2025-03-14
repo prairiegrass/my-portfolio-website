@@ -7,7 +7,7 @@ excerpt: >-
   Two datasets from Kaggle were used to analyze song trends: Spotify Data
   1921-2020 and Billboard Hot 100 Songs.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/spotify_preview.png
   altText: Case study 3
   styles:
     self:
