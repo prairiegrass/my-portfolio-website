@@ -64,4 +64,11 @@ styles:
   self:
     flexDirection: col
 ---
-Testing
+## Introduction
+
+This project will attempt to predict Uber fares taken in NYC. 
+
+## Data
+
+
+
