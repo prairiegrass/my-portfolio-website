@@ -5,7 +5,7 @@ numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
-      text: 'Spotify Through the '
+      text: Projects
       color: text-dark
       type: TitleBlock
     subtitle: ''
