@@ -1,6 +1,6 @@
 ---
 title: Spotify Through the Ages
-slug: case-study-3
+slug: spotify-through-the-ages
 date: '2023-05-24'
 excerpt: >-
   IntroductionThis article will examine the changes in popular music over time.

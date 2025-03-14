@@ -1,16 +1,16 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: -68
+numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
-      text: Resume
+      text: Projects
       color: text-dark
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/resume.md
+      - content/pages/blog/spotify-through-the-ages.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
