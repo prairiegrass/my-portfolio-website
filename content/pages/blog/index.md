@@ -9,8 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    posts:
-      - content/pages/blog/resume.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
