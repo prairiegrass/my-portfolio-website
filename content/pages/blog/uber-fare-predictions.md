@@ -64,4 +64,37 @@ styles:
   self:
     flexDirection: col
 ---
-Testing
+## Introduction
+
+This project will attempt to predict Uber fares taken in NYC.
+
+## Data
+
+We first explore the data by examining summary statistics.
+
+
+
+Now, let's examine a small slice of the data itself.
+
+
+
+The data values that we have for each Uber trip are:
+
+*   Pickup Date and Time
+
+*   Fare Amount
+
+*   Pickup Longitude
+
+*   Pickup Latitude
+
+*   Drop off Longitude
+
+*   Drop off Latitude
+
+*   Passenger Count
+
+We can now draw a few plots to understand the data.
+
+#### Histogram of Fare Distribution for Fares within 3 Standard Deviations of the Mean
+
