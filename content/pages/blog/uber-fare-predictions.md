@@ -66,15 +66,15 @@ styles:
 
 This project will attempt to predict Uber fares taken in NYC.
 
-## Data
+## Data Exploration
 
 We first explore the data by examining summary statistics.
 
-
+![](/images/uber_data_describe.png)
 
 Now, let's examine a small slice of the data itself.
 
-
+![](/images/uber_data_head.png)
 
 The data values that we have for each Uber trip are:
 
@@ -94,5 +94,29 @@ The data values that we have for each Uber trip are:
 
 We can now draw a few plots to understand the data.
 
-#### Histogram of Fare Distribution for Fares within 3 Standard Deviations of the Mean
+#### Histogram of Fare Distribution
+
+![](/images/uber_fares_hist.png)
+
+#### Histogram of Passenger Count
+
+#### ![](/images/uber_passenders.png)Heatmap of Uber Pickup Locations
+
+![](/images/uber_heatmap.png)
+
+## Data Cleaning
+
+We immediately see from the Uber fare distribution and the pickup location heat map that fares and pickup locations have some outliers that will confuse our model. This will be addressed with a little later. 
+
+The data is first cleaned to remove bad observations where:
+
+*   the fare amount is less than 0
+
+*   any pickup/drop off longitude or latitude are 0
+
+*   the ride has 0 passengers
+
+We are left with approximately 98% of the original observations. Since the dataset is so large, deleting the bad observations will be the most efficient action.
+
+## Feature Engineering
 
