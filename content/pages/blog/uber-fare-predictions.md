@@ -185,3 +185,8 @@ Before using all these fancy new features in a regression model, it is important
 To double check for multicollinearity, we can look at VIF of our remaining features. VIF starts at 1, and the recommended VIF cutoff is around 5. Below, we see that all of our features are looking good!
 
 ![](/images/uber_vif.png)
+
+## Model Selection
+
+When using MLR, we have to balance between using features that 
+
