@@ -81,7 +81,6 @@ First, I used ggplot to visually look for trends in each attribute over the year
 
 
 
-
 # Exploring Attribute Trends
 
 With the initial look out of the way, it seems like the attributes that are likely to have changed over the years are:
@@ -132,8 +131,6 @@ Looking at the plot above, it seems like the following attributes are most likel
 
 Another way of looking at attribute change over time is to use a facet plot. Below, we see plots of each attribute over the years, in plots separated by decade. The horizontal line represents the average for the decade, and we can follow it to see if the average is changing over time.
 
-
-
 # Exploring Dependence Between Attributes
 
 In this last section, we will look at how different attributes relate to each other, and how this relationship may change over time.
@@ -144,25 +141,23 @@ At this point, we can agree that some attributes seem to change over time. We wi
 
 ### Acousticness vs. Other
 
-
-
 ### Danceability vs. Other
 
-
+![](/images/spotify_danceability.png)
 
 ### Energy vs. Other
 
-
+![](/images/spotify_energy.png)
 
 ### Instrumentalness vs. Other
 
-
+![](/images/spotify_instrumentalness.png)
 
 ### Loudness vs. Other
 
-### 
+### ![](/images/spotify_loudness.png)
 
-Speechiness vs. Other
+### Speechiness vs. Other
 
 ### ![](/images/spotify_speechiness.png)Tempo vs. Other
 
