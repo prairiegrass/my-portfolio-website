@@ -1,7 +1,7 @@
 ---
 title: Spotify Through the Ages
 slug: case-study-3
-date: '0002-11-18'
+date: '2023-11-18'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
