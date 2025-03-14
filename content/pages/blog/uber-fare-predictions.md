@@ -152,12 +152,16 @@ Now we explore some of these new features.
 
 \#### Histogram of Trip Distance Without Outliers
 
-
-
 #### Histogram of `pickup_dist_cc_km` Without Outliers
-
-
 
 #### Removing Extra Outliers
 
 Upon examination of our new features, our dataset has some extreme outliers in `trip_distance` and `pickup_distance` from the city center. While the median `trip_distance` was about 2.2 km, the maximum `trip_distance` was 6027 km, and several outliers skewed the `trip_distance_km` standard deviation to 68 km! Similarly, the median `pickup_dist_cc_km` from the city center was 8.8 km, but a maximum `pickup_dist_cc_km` of 15077 km with other outliers skewed the standard deviation to 340 km! Below, I include the summary statistics of these two features.
+
+##### Features Summary With Outliers
+
+![](/images/uber_outliers.png)
+
+##### Features Summary Without Outliers
+
+![](/images/uber_outliers_removed.png)
