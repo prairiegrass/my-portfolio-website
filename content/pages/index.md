@@ -212,7 +212,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: PROJECTS
+      text: RESEARCH
       color: text-primary
       styles:
         self:
@@ -337,6 +337,44 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: PROJECTS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/uber-fare-predictions.md
+      - content/pages/blog/spotify-through-the-ages.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow-plus-move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -449,16 +487,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
   metaTitle: Anna Dupree
   metaDescription: Portfolio Website for Anna Dupree
