@@ -337,6 +337,34 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: PROJECTS
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/uber-fare-predictions.md
+      - content/pages/blog/spotify-through-the-ages.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow-plus-move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -459,34 +487,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: PROJECTS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/uber-fare-predictions.md
-      - content/pages/blog/spotify-through-the-ages.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
