@@ -122,19 +122,19 @@ We are left with approximately 98% of the original observations. Since the datas
 
 Next, we want to do encode some extra features. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation. Below is a list of all the features I extracted:
 
-*   `trip\_distance\_km`: Trip distance in kilometers (based on Haversine equation for spherical distance)
+*   `trip_distance_km`: Trip distance in kilometers (based on Haversine equation for spherical distance)
 
-*   `pickup\_dist\_cc\_km`: Pickup distance from city center (where the city center is the mean longitude and mean latitude of all pickup locations)
+*   `pickup_dist_cc_km`: Pickup distance from city center (where the city center is the mean longitude and mean latitude of all pickup locations)
 
-*   `dropoff\_dist\_cc\_km`: Drop off distance from city center
+*   `dropoff_dist_cc_km`: Drop off distance from city center
 
 *   `year`: Calendar year of the trip
 
 *   `month`: Calendar month of the trip
 
-*   `day\_of\_week`: Week day of the trip
+*   `day_of_week`: Week day of the trip
 
-*   `day\_of\_year`: Day of year between 1 and 365
+*   `day_of_year`: Day of year between 1 and 365
 
 *   `day_ordinal_shifted`: Days since first Uber trip in dataset
 
@@ -174,11 +174,11 @@ Upon examination of our new features, our dataset has some extreme outliers in `
 
 Before using all these fancy new features in a regression model, it is important to make sure that they do not have high correlations between each other. Through a simple correlation table, I decided to remove the following features that had high correlations with other features:
 
-*   dropoff\_dist\_cc\_km
+*   `dropoff_dist_cc_km`
 
-*   day\_of\_year
+*   `day_of_year`
 
-*   day\_ordinal\_shifted
+*   `day_ordinal_shifted`
 
 #### Check for Variance Inflation Factors (VIF)
 
