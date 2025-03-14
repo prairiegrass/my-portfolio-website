@@ -8,7 +8,7 @@ excerpt: >-
   1921-2020 and Billboard Hot 100 Songs.
 featuredImage:
   url: /images/spotify_preview.png
-  altText: Case study 3
+  altText: Spotify Through the Ages
   styles:
     self:
       borderRadius: x-large
