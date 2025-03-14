@@ -142,11 +142,11 @@ Next, we want to do encode some extra features. The most obvious feature to impl
 
 Now we explore some of these new features.
 
-#### Histogram of Time Proportion Feature
+#### Histogram of `time_proportion` Feature
 
 ![](/images/uber_time_proportion.png)
 
-#### Histogram of Day of Year Feature
+#### Histogram of `day_of_year`
 
 ![](/images/uber_day_of_year.png)
 
@@ -154,11 +154,10 @@ Now we explore some of these new features.
 
 
 
-#### Histogram of Pickup Distance from City Center Without Outliers
+#### Histogram of `pickup_dist_cc_km` Without Outliers
 
 
 
 #### Removing Extra Outliers
 
-Upon examination of our new features, our dataset has some extreme outliers in trip distance and pickup distance from the city center. While the median trip distance was about 2.2 km, the maximum trip distance was 6027 km, and several outliers skewed the trip distance standard deviation to 68 km! Similarly, the median pickup distance from the city center was 8.8 km, but a maximum pickup distance from city center of 15077 km with other outliers skewed the standard deviation to 340 km! Below, I include a snap
-
+Upon examination of our new features, our dataset has some extreme outliers in `trip_distance` and `pickup_distance` from the city center. While the median `trip_distance` was about 2.2 km, the maximum `trip_distance` was 6027 km, and several outliers skewed the `trip_distance_km` standard deviation to 68 km! Similarly, the median `pickup_dist_cc_km` from the city center was 8.8 km, but a maximum `pickup_dist_cc_km` of 15077 km with other outliers skewed the standard deviation to 340 km! Below, I include the summary statistics of these two features.
