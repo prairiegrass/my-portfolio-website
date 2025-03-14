@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    posts: []
+    posts:
+      - content/pages/blog/spotify-through-the-ages.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
