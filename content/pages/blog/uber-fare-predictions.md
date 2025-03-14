@@ -64,7 +64,7 @@ styles:
 ---
 ## Introduction
 
-This project will attempt to predict Uber fares taken in NYC.
+This project will attempt to predict Uber fares. This dataset contains data from 200,000 Uber rides in and around New York City from 2008-2012. We will use a Multiple Linear Regression model to predict fares based on engineered features.
 
 ## Data Exploration
 
@@ -120,7 +120,7 @@ We are left with approximately 98% of the original observations. Since the datas
 
 ## Feature Engineering
 
-Next, we want to do some feature engineering. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation. Below is a list of all the features I extracted:
+Next, we want to do encode some extra features. The most obvious feature to implement is distance traveled. However, since the earth is round and we are using latitude and longitude, we calculate spherical distance using the Haversine equation. Below is a list of all the features I extracted:
 
 *   `trip\_distance\_km`: Trip distance in kilometers (based on Haversine equation for spherical distance)
 
@@ -134,8 +134,31 @@ Next, we want to do some feature engineering. The most obvious feature to implem
 
 *   `day\_of\_week`: Week day of the trip
 
-*   `day\_of\_year`: Calendar day of month of the trip
+*   `day\_of\_year`: Day of year between 1 and 365
 
-*   `day_ordinal_shifted`: Day of year between 1 and 365
+*   `day_ordinal_shifted`: Days since first Uber trip in dataset
 
-*   `time_proportion`: Pickup time normalized to a \[0,1] scale where the day starts at 12am.
+*   `time_proportion`: Pickup time normalized to a \[0,1] scale where the day starts at 12am
+
+Now we explore some of these new features.
+
+#### Histogram of Time Proportion Feature
+
+![](/images/uber_time_proportion.png)
+
+#### Histogram of Day of Year Feature
+
+![](/images/uber_day_of_year.png)
+
+\#### Histogram of Trip Distance Without Outliers
+
+
+
+#### Histogram of Pickup Distance from City Center Without Outliers
+
+
+
+#### Removing Extra Outliers
+
+Upon examination of our new features, our dataset has some extreme outliers in trip distance and pickup distance from the city center. While the median trip distance was about 2.2 km, the maximum trip distance was 6027 km, and several outliers skewed the trip distance standard deviation to 68 km! Similarly, the median pickup distance from the city center was 8.8 km, but a maximum pickup distance from city center of 15077 km with other outliers skewed the standard deviation to 340 km! Below, I include a snap
+
