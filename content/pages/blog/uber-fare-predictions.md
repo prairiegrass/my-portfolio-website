@@ -3,12 +3,10 @@ type: PostLayout
 title: Uber Fare Predictions
 date: '2024-06-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: This project will attempt to predict Uber fares taken in NYC.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/uber_heatmap.png
   altText: Thumbnail
   elementId: ''
   styles:
