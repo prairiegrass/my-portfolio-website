@@ -468,7 +468,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/spotify-through-the-ages.md
     showThumbnail: true
     showExcerpt: true
