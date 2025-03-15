@@ -4,29 +4,34 @@ slug: /blog
 numOfPostsPerPage: 3
 enableSearch: true
 topSections:
-  - title:
-      text: Projects
-      color: text-dark
+  - type: FeaturedPostsSection
+    title:
       type: TitleBlock
-    subtitle: ''
+      text: Featured Projects
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
     posts:
+      - content/pages/blog/uber-fare-predictions.md
       - content/pages/blog/spotify-through-the-ages.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
+    actions: []
+    elementId: ''
     variant: big-list
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 styles:
   title:
     textAlign: center
