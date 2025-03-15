@@ -185,3 +185,38 @@ Before using all these fancy new features in a regression model, it is important
 To double check for multicollinearity, we can look at VIF of our remaining features. VIF starts at 1, and the recommended VIF cutoff is around 5. Below, we see that all of our features are looking good!
 
 ![](/images/uber_vif.png)
+
+## Model Selection
+
+When using MLR, we have to balance between using features that contribute to the predictions and minimize error, but a simpler model may be preferred. Below is a table of MLR models with different features, and their statistics. They are sorted from highest to lowest R-squared.
+
+![](/images/uber_models_rsquared.png)
+
+Multiple criteria should be taken into account when choosing a model. Below, we look at the top five models sorted by the lowest Mean Squared Error (MSE).
+
+![](/images/uber_models_mse.png)
+
+We see many of the metrics not changing very much over the different models, what I found interesting were the trends in the F-statistic metric (`model_f_value`). While other metrics such as AIC (`model_aic`) and residual mean squared error (`test_resid_mse`) *did* tend to improve with more predictors, their improvements were relatively incremental. The F-statistic is the only metric that seems to change a lot, and with different patterns than other model metrics.
+
+With this in mind, it still *does* seem like adding more regressors gives use lower mean squared error. Since that was the suggested metric for choosing a model, then I will be using the model with all possible, uncorrelated predictors:
+
+`fare_amount ~ passenger_count + trip_distance_km + pickup_dist_cc_km + year + month + day_of_week + time_proportion`
+
+## Feature Importance
+
+There are several ways to discern which features are the most important in predicting Uber fares. To get a quick idea, we can sort by magnitude of t-values:
+
+     
+
+| **Variable Name**   | **t-value** |
+| ------------------- | ----------- |
+| `trip_distance_km`  | 618.272169  |
+| `year`              | 72.644738   |
+| `Intercept`         | 72.442216   |
+| `pickup_dist_cc_km` | 26.898865   |
+| `time_proportion`   | 20.995381   |
+| `month`             | 18.744883   |
+| `day_of_week`       | 6.512524    |
+| `passenger_count`   | 3.156191    |
+
+
