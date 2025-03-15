@@ -206,8 +206,6 @@ With this in mind, it still *does* seem like adding more regressors gives use 
 
 There are several ways to discern which features are the most important in predicting Uber fares. To get a quick idea, we can sort by magnitude of t-values:
 
-     
-
 | **Variable Name**   | **t-value** |
 | ------------------- | ----------- |
 | `trip_distance_km`  | 618.272169  |
@@ -219,4 +217,13 @@ There are several ways to discern which features are the most important in predi
 | `day_of_week`       | 6.512524    |
 | `passenger_count`   | 3.156191    |
 
+The above is confirmed by the feature importance function of an XG Boost model trained on the same data:
+
+#### Features by Importance
+
+![](/images/uber_feature_importance.png)
+
+## Prediction
+
+Using our final model from above, we can predict on the testing set and look at our results.
 
