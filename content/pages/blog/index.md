@@ -30,7 +30,7 @@ topSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Featured Projects
       color: text-dark
       styles:
         self:
