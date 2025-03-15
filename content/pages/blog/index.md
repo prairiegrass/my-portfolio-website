@@ -36,8 +36,8 @@ topSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/spotify-through-the-ages.md
       - content/pages/blog/uber-fare-predictions.md
+      - content/pages/blog/spotify-through-the-ages.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
