@@ -3,7 +3,9 @@ type: PostLayout
 title: Uber Fare Predictions
 date: '2024-06-14'
 author: content/data/person1.json
-excerpt: This project will attempt to predict Uber fares taken in NYC.
+excerpt: >-
+  This project will use Multiple Linear Regression (MLR) to predict Uber fares
+  in NYC.
 featuredImage:
   type: ImageBlock
   url: /images/uber_heatmap.png
